@@ -1128,7 +1128,7 @@ check_ssh_status
 check_ssh_config
 check_var_empty_sshd
 check_etc_pamd_sshd
-check_selinux
+#check_selinux
 check_firewall
 check_user_status
 check_file_folder_permission
