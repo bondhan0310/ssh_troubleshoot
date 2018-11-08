@@ -1,5 +1,7 @@
 ssh_troubleshoot
+
 Created by Bond Han on 2018-10-21
+
 This script applies to Azure Linux VMs that fail to be connected via SSH but the OS is up and supports serial console.
 Kindly note that currently this script is designed to focus on below OS versions, other OS versions might not be fully supported yet.
 
