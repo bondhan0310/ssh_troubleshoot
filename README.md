@@ -12,7 +12,7 @@ Kindly note that currently this script is designed to focus on below OS versions
 How to use:
 
 1. Login the VM in problem via serial console from Azure Portal.
-2. Create a file named abc.sh(for example), then copy the content of network_basic.sh(https://github.com/bondhan0310/ssh_troubleshoot/blob/master/network_basic.sh) and paste it to abc.sh.
+2. Create a file named abc.sh(any name is OK but not "ssh.sh"), then copy the content of network_basic.sh(https://github.com/bondhan0310/ssh_troubleshoot/blob/master/network_basic.sh) and paste it to abc.sh.
 3. Save file abc.sh and exit, then run command "chmod 777 abc.sh"
 4. Please grant root permission first, then run "./abc.sh" and input the required information when needed.
  
